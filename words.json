@@ -550,5 +550,9 @@
     "TRACE",
     "WRIST",
     "STRAW",
-    "LITHE"
+    "LITHE",
+    "ALARM",
+    "HARSH",
+    "TOPIC",
+    "WHALE"
 ]
